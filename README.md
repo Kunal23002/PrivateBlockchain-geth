@@ -8,5 +8,5 @@ Using geth to create a private blockchain off of the Ethereum Network.
 -Two nodes created.Only one of them mines.
 -Boot node created to link the two nodes.
 
-Metamask extensio to be used to perform transactions.
+Metamask extension to be used to perform transactions.
 To test network -Network id -210403.
