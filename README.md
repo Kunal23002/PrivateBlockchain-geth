@@ -10,3 +10,9 @@ Using geth to create a private blockchain off of the Ethereum Network.
 
 Metamask extension to be used to perform transactions.
 To test network -Network id -210403.
+
+
+Credits:
+Kunal E
+Rehan Ganapathy
+Mithul CB
